@@ -19,7 +19,7 @@ Fun arcade like game!
 ### ScreenSaver
 random generating line for a screen saver.
 
-![Screen Saver] (https://github.com/9610674/Programming1Portfolio/blob/gh-pages/images/ScreenSaver/ScreenSaver.png?raw=true)
+![Screen Saver](https://github.com/9610674/Programming1Portfolio/blob/gh-pages/images/ScreenSaver/ScreenSaver.png?raw=true)
 
 [Source Code] ()
 
