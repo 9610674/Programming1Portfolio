@@ -33,8 +33,8 @@ Voume and Surface calculator for 3 different shapes based on l,w,h.
 [Source Code] (https://github.com/9610674/Programming1Portfolio/tree/gh-pages/src/ShapeTester)
 
 ### PigLatin Convertor
-Enter a word and it will convert it to pig latin.
+Enter a word and will convert it to pig latin!
 
-![ShapeTester]()
+![PigLatin]()
 
 [Source Code] ()
