@@ -38,3 +38,6 @@ Enter a word and will convert it to pig latin!
 ![PigLatin](https://github.com/9610674/Programming1Portfolio/blob/gh-pages/images/PigLatin/PigLatin.png?raw=true)
 
 [Source Code] (https://github.com/9610674/Programming1Portfolio/tree/gh-pages/src/PigLatin)
+
+### Contact Info
+(isaawill9610@granitesd.org)   
