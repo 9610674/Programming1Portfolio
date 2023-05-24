@@ -2,6 +2,10 @@
 
 ## Programming 1 Semester 1 Projects:
 
+### Chess Game
+Play with your friends!
+![Chess Game] (
+
 ### OOP Calculator
 Graphic based OOP calculator
 ![Running Calculator](https://raw.githubusercontent.com/9610674/Programming1Portfolio/3f8f5e8363a78cd71703f5a130a31d0eb91daa83/images/calc.png)
@@ -39,5 +43,6 @@ Enter a word and will convert it to pig latin!
 
 [Source Code] (https://github.com/9610674/Programming1Portfolio/tree/gh-pages/src/PigLatin)
 
-### Contact Info
+### Contact Info:
+Isaac Williamson
 (isaawill9610@granitesd.org)   
