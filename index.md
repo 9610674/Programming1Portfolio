@@ -6,7 +6,7 @@
 Play with your friends!
 ![Chess Game](https://github.com/9610674/Programming1Portfolio/blob/gh-pages/images/Screen%20Shot%202023-05-24%20at%2010.17.48%20AM.png)
 
-[Source Code] 
+[Source Code] (https://github.com/9610674/Programming1Portfolio/tree/gh-pages/src/Chess%204)
 
 
 ### OOP Calculator
