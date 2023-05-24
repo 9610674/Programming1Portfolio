@@ -4,7 +4,10 @@
 
 ### Chess Game
 Play with your friends!
-![Chess Game] (
+![Chess Game](https://github.com/9610674/Programming1Portfolio/blob/gh-pages/images/Screen%20Shot%202023-05-24%20at%2010.17.48%20AM.png)
+
+[Source Code] 
+
 
 ### OOP Calculator
 Graphic based OOP calculator
